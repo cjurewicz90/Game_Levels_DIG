@@ -14,3 +14,6 @@
 .floater {
 	background-color: #7FFFD4;
 }
+.actor  { position: absolute;  }
+.player { background: rgb(64, 64, 64); }
+.dead { background: red; }
